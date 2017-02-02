@@ -1,0 +1,7 @@
+This modeling takes for input different .wav files which are a pronunciation for each digit(0-9) by different speakers.
+Code uses following -easily finded in Web- Toolboxes:
+-HMM Toolbox
+-KPMstats
+-KPMtools
+-netlab
+-prtools
